@@ -19,7 +19,7 @@ Transform the data gathered by cleaning it and organizing it so it is easier to 
 ![Transform](Images/transform.png)
 
 ## LOAD
-After Transforming our datasets we created a database called netflix_db in Postgres and used our queries.sql file to create tables to hold our data. Using Pandas we convert DataFrames into DataBase in Postges. 
+After Transforming our datasets we created a database called netflix_db in Postgres and used our queries.sql file to create tables to hold our data. Using Pandas we converted our DataFrames into DataBase in Postges and confirmed that they were loaded by querying them through Jupyter Notebook.
 
 Load the data into the format required. Again, this can be into either a database, CSV file or other.
 ![Load](Images/Load.png)
