@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ETL-Project
 Jessica Fernandez, Rafael Brennand and Brenda Mitchell
 
@@ -23,3 +24,6 @@ After Transforming our datasets we created a database called netflix_db in Postg
 
 Load the data into the format required. Again, this can be into either a database, CSV file or other.
 ![Load](Images/Load.png)
+=======
+# ETL-Project
+>>>>>>> f8f54aadfc31383aee154cec96ceda03641e44d0
